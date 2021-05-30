@@ -4,3 +4,5 @@
 This is a basic program made for the tabletop game "Exalted" and the storyteller die system, to caclulate the odds of rolling any given value with a user determined number of dice, displayed as a bar graph for every possible value. 
 
 Current bugs include a rounding error with higher numbers, though you will likely never roll that high.
+
+Includes the Exe as well as the cpp code.
